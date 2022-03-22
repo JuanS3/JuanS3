@@ -7,7 +7,7 @@ Hello to my mini README; first of all, my golden rule is ***"Be the change that 
 
 I am passionate about the sea of data science and artificial intelligence; in fact, I am taking a ***Master's degree in Artificial Intelligence*** at Universidad Internacional de la Rioja (UNIR). Besides, I am taking too deep learning specialization Coursera.
 
-In addition, I work as Business Intelligence Consultant and Python Developer at Rollup Consulting.
+In addition, I work as Data Engineer at NTT Data.
 <br/>
 <br/>
 
