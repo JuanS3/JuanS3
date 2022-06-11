@@ -41,6 +41,7 @@ In addition, I've worked as Business Intelligence Consultant, Python Developer a
   - <img src="scipy.png"      width="22" height="22"/> Scipy
   - <img src="tf.png"         width="22" height="22"/> TensorFlow
   - <img src="keras.png"      width="22" height="22"/> Keras
+  - <img src="spark.png"      width="22" height="22"/> Spark
 
 # Contact
 
