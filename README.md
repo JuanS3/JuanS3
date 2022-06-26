@@ -21,57 +21,39 @@ In addition, I've worked as Business Intelligence Consultant, Python Developer a
 
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?label=Lang&message=Python&color=4169E1&style=flat&logo=python"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=R&color=4169E1&style=flat&logo=r"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=JavaScript&color=4169E1&style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=Java&color=4169E1&style=flat&logo=java"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=Bash - Batch&color=4169E1&style=flat&logo=bash"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=SQL - NoSQL&color=4169E1&style=flat&logo=mariadb"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=C&color=4169E1&style=flat&logo=c"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=C%2B%2B&color=4169E1&style=flat&logo=cplusplus"/>
-  <img src="https://img.shields.io/static/v1?label=Lang&message=Go&color=4169E1&style=flat&logo=go"/>
+  <img src="https://img.shields.io/static/v1?label=Main Language&message=Python&color=4169E1&style=for-the-badge&logo=python"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/static/v1?label=Languages&message=Python%20|%20R%20|%20JavaScript%20|%20Java%20|%20SQL%20-%20NoSQL%20|%20C%20|%20C++%20|%20Go%20|%20Bash%20-%20Batch&color=4169E1&style=for-the-badge"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/static/v1?label=Tools&message=PowerBI%20|%20QlikSense%20|%20Docker%20|%20KNIME%20|%20IBN%20Cognos%20-%20Data%20Stage%20|%20GNU/Linux&color=008080&style=for-the-badge"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/static/v1?label=Libraries%20|%20Frameworks&message=Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20Scipy%20|%20Scikit-Learn%20|%20Scikit-Image&color=4682B4&style=for-the-badge"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/static/v1?label=Libraries%20|%20Frameworks&message=TensorFlow%20|%20Keras%20|%20PySpark%20|%20Django%20|%20TKinter&color=4682B4&style=for-the-badge"/>
+
 </div>
 
 <br/>
-
-<div align="lef">
-  <img src="https://img.shields.io/static/v1?label=Tool&message=PowerBI - Qlik Sense&color=008080&style=flat&logo=powerbi"/>
-  <img src="https://img.shields.io/static/v1?label=Tool&message=Docker&color=008080&style=flat&logo=docker"/>
-  <img src="https://img.shields.io/static/v1?label=Tool&message= KNIME Analytics Platform&color=008080&style=flat&logo=knime"/>
-  <img src="https://img.shields.io/static/v1?label=Tool&message=IBM Cognos - Decision Stream - DataManager - DataStage&color=008080&style=flat&logo=ibm"/>
-  <img src="https://img.shields.io/static/v1?label=Tool&message=GNU/Linux&color=008080&style=flat&logo=linux"/>
-</div>
-
-<br/>
-
-<div align="'left'">
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Pandas&color=4682B4&style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Numpy&color=4682B4&style=flat&logo=Numpy"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Matplotlib&color=4682B4&style=flat&logo=matplotlib"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Seaborn&color=4682B4&style=flat&logo=seaborn"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Scipy&color=4682B4&style=flat&logo=scipy"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Scikit-learn&color=4682B4&style=flat&logo=scikit-learn"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Tensorflow&color=4682B4&style=flat&logo=tensorflow"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Keras&color=4682B4&style=flat&logo=keras"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Pytorch&color=4682B4&style=flat&logo=pytorch"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=PySpark&color=4682B4&style=flat&logo=pyspark"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=Django&color=4682B4&style=flat&logo=django"/>
-  <img src="https://img.shields.io/static/v1?label=Lib&message=TKinter&color=4682B4&style=flat&logo=tkinter"/>
-</div>
 
 
 # Contact
 
 <a href="https://t.me/JuanS3">
-  <img src="https://img.shields.io/static/v1?label=Lib&message=JuanS3&color=2F4F4F&style=flat&logo=telegram"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=JuanS3&color=2F4F4F&style=for-the-badge&logo=telegram"/>
 </a>
 <br/>
 <a href="https://www.linkedin.com/in/jsebastian-martinez">
-  <img src="https://img.shields.io/static/v1?label=Lib&message=jsebastian-martinez&color=2F4F4F&style=flat&logo=linkedin"/>
+  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=jsebastian-martinez&color=2F4F4F&style=for-the-badge&logo=linkedin"/>
 </a>
 <br/>
 <a href="https://juans3.github.io">
-  <img src="https://img.shields.io/static/v1?label=Lib&message=JuanS3.Github.io&color=2F4F4F&style=flat&logo=page"/>
+  <img src="https://img.shields.io/static/v1?label=GitHub%20page&message=JuanS3.Github.io&color=2F4F4F&style=for-the-badge&logo=Github"/>
 </a>
-
-
