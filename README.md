@@ -25,7 +25,7 @@ In addition, I've worked as Business Intelligence Consultant, Python Developer a
 
   <br/>
 
-  <img src="https://img.shields.io/static/v1?label=Languages&message=Python%20|%20R%20|%20JavaScript%20|%20Java%20|%20SQL%20-%20NoSQL%20|%20C%20|%20C++%20|%20Go%20|%20Bash%20-%20Batch&color=4169E1&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=Languages&message=Python%20|%20R%20|%20JavaScript%20|%20Java%20|%20SQL%20-%20NoSQL%20|%20C%20|%20C%2B%2B%20|%20Go%20|%20Bash%20-%20Batch&color=4169E1&style=for-the-badge"/>
 
   <br/>
 
