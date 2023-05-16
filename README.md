@@ -1,59 +1,81 @@
 # Hello
 <div align="center">
-  <img src="about.png" alt="" width="400"/>
+  <img src="about.png" alt="" width="200"/>
 </div>
 
-Hello to my mini README; first of all, my golden rule is ***"Be the change that you want to see in the world"***.
+In acsii box
 
-I am passionate about the sea of data science and artificial intelligence; in fact, I am taking a ***Master's degree in Artificial Intelligence*** at Universidad Internacional de la Rioja (UNIR). Besides, I am taking too deep learning specialization Coursera.
-
-In addition, I've worked as Business Intelligence Consultant, Python Developer and Data Engineering.
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║ Hello to my mini README; first of all, my golden rule is                 ║
+║ "Be the change that you want to see in the world".                       ║
+║                                                                          ║
+║ I am passionate about the sea of data science and artificial             ║
+║ intelligence; in fact, I am taking a Master's degree in                  ║
+║ Artificial Intelligence at Universidad Internacional de la Rioja (UNIR). ║
+║                                                                          ║
+║ In addition, I've worked as Business Intelligence Consultant,            ║
+║ Python Developer, Data Engineering and Data Developer.                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 <br/>
 <br/>
 
 *Visit my [live-cv](https://juans3.github.io) for more information*
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanS3&layout=compact)](https://github.com/JuanS3/github-readme-stats)
-
-
-# Technical skills
+<br/>
+<br/>
 
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?label=Main Language&message=Python&color=4169E1&style=for-the-badge&logo=python"/>
+```python
+class SebastianMartinez:
 
-  <br/>
+  def __init__(self):
+    self.name = "Juan Sebastian Martinez"
+    self.education = "Master's degree in Artificial Intelligence"
+    self.university = "Universidad Internacional de la Rioja (UNIR)"
+    self.location = "Bogotá D.C, Colombia"
 
-  <img src="https://img.shields.io/static/v1?label=Languages&message=Python%20|%20R%20|%20JavaScript%20|%20Java%20|%20SQL%20-%20NoSQL%20|%20C%20|%20C%2B%2B%20|%20Go%20|%20Bash%20-%20Batch&color=4169E1&style=for-the-badge"/>
+    self.interests = ["DS", "AI", "ML", "DL", "CV", "NLP", "BI", "DE"]
+    self.hobbies = ["Reading", "Writing", "Music", "Movies", "Series", "Video Games", "Sports"]
+    self.languages = ["Spanish", "English"]
 
-  <br/>
+    self.technologies = {
+      "programming languages":[
+        "Python", "R", "JavaScript", "Java", "SQL - NoSQL", "C", "C++", "Go", "Bash - Batch"
+      ],
+      "tools": [
+        "PowerBI", "QlikSense", "Docker", "KNIME", "IBN Cognos - Data Stage", "GNU/Linux"
+      ],
+      "libraries - frameworks": [
+        "Pandas", "Numpy", "Matplotlib", "Seaborn", "Scipy", "Scikit-Learn/Image", "TensorFlow", "Keras", "PySpark", "Django", "TKinter"
+      ]
+    }
 
-  <img src="https://img.shields.io/static/v1?label=Tools&message=PowerBI%20|%20QlikSense%20|%20Docker%20|%20KNIME%20|%20IBN%20Cognos%20-%20Data%20Stage%20|%20GNU/Linux&color=008080&style=for-the-badge"/>
+    self.contact = {
+      "telegram": "https://t.me/JuanS3",
+      "linkedin": "https://www.linkedin.com/in/jsebastian-martinez",
+      "github": "https://juans3.github.io"
+    }
 
-  <br/>
+  def main_programming_language(self):
+    return self.technologies["programming languages"][0]
 
-  <img src="https://img.shields.io/static/v1?label=Libraries%20|%20Frameworks&message=Pandas%20|%20Numpy%20|%20Matplotlib%20|%20Seaborn%20|%20Scipy%20|%20Scikit-Learn%20|%20Scikit-Image&color=4682B4&style=for-the-badge"/>
+  def __str__(self):
+    return f"Hello, my name is {self.name} and I am a {self.education} at {self.university}.\nI am passionate about the sea of data science and artificial intelligence.\nIn addition, I've worked as Business Intelligence Consultant, Python Developer and Data Engineering.\n\nVisit my {self.contact['github']} for more information.\n\n{self.technologies}"
 
-  <br/>
+if __name__ == "__main__":
+  print(SebastianMartinez())
 
-  <img src="https://img.shields.io/static/v1?label=Libraries%20|%20Frameworks&message=TensorFlow%20|%20Keras%20|%20PySpark%20|%20Django%20|%20TKinter&color=4682B4&style=for-the-badge"/>
+```
 
+<br/>
+<br/>
+
+<!-- GitHub stats In two columns -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanS3&layout=compact" alt="" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanS3&show_icons=true" alt="" width="400"/>
 </div>
-
-<br/>
-
-
-# Contact
-
-<a href="https://t.me/JuanS3">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=JuanS3&color=2F4F4F&style=for-the-badge&logo=telegram"/>
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/jsebastian-martinez">
-  <img src="https://img.shields.io/static/v1?label=LinkedIn&message=jsebastian-martinez&color=2F4F4F&style=for-the-badge&logo=linkedin"/>
-</a>
-<br/>
-<a href="https://juans3.github.io">
-  <img src="https://img.shields.io/static/v1?label=GitHub%20page&message=JuanS3.Github.io&color=2F4F4F&style=for-the-badge&logo=Github"/>
-</a>
